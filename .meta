@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "commons/lab": "git@github.com:chimpwizard-playground/vagrant-lab.git",
+    "commons/containers": "git@github.com:chimpwizard-playground/containers-micro-container.git",
+    "containers/micro-container": "git@github.com:chimpwizard-playground/containers-micro-container.git",
+    "containers/base-image": "git@github.com:chimpwizard-playground/containers-base-image.git",
+    "databases/dgraph": "git@github.com:chimpwizard-playground/databases-dgraph.git",
+    "methaprograming/jison": "git@github.com:chimpwizard-playground/methaprograming-jison.git",
+    "methaprograming/meta": "git@github.com:chimpwizard-playground/methaprograming-meta.git",
+    "iot/rpi/docker": "git@github.com:chimpwizard-playground/iot-rpi-docker.git",
+    "iot/rpi/vaisala": "git@github.com:chimpwizard-playground/iot-rpi-vaisala.git",
+    "iot/aws-button": "git@github.com:chimpwizard-playground/iot-aws-button.git",
+    "databases/kafka": "git@github.com:chimpwizard-playground/databases-kafka.git",
+    "blockchain/ethereum": "git@github.com:chimpwizard-playground/blockchain-ethereumn.git",
+    "methaprograming/yoman": "git@github.com:chimpwizard-playground/methaprograming-yoman.git",
+    "tools/codeserver": "git@github.com:chimpwizard-playground/tools-codeserver.git"
+  }
+}
